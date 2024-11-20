@@ -1,30 +1,34 @@
-# Hi there, I'm Harsh Rathod 👋
+### Hi there, I'm Harsh Rathod👦,
+A Full Stack Web developer🎯 and designer🎨 from India.
 
-A **Full Stack Web Developer** 🖥️ and designer 🎨 from India.
+- 👨‍💻 Full Stack MERN Developer
+- 🎥 Learning Web Development 
+- 📚 What do I believe? Jack of all, Master of some.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/harsh_rathod_303/) or [LinkedIn](https://www.linkedin.com/in/harsh-rathod-2591b0292)
+- 🎙 Freelance 
 
-- 🌟 **Full Stack MERN Developer**
-- 📚 **Learn Web Development from me** at [GitHub](https://github.com/panduthegang)
-- 🤔 **What do I believe?** Jack of all, Master of some.
-- 📫 **How to reach me:** [Instagram](https://www.instagram.com/harsh_rathod_303/) or [LinkedIn](https://www.linkedin.com/in/harsh-rathod-2591b0292)
-- 🎤 **Freelance:** Aspiring Voice Over Artist.
+**Languages:**  
 
-## Languages and Tools:
-[![HTML5](https://img.shields.io/badge/Code-HTML5-orange?style=flat-square)](#)
-[![CSS3](https://img.shields.io/badge/Code-CSS3-blue?style=flat-square)](#)
-[![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square)](#)
-[![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square)](#)
-[![React](https://img.shields.io/badge/Framework-React-blue?style=flat-square)](#)
-[![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=flat-square)](#)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-## 📊 Harsh Rathod's GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=panduthegang&show_icons=true&theme=dark)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=panduthegang&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panduthegang&theme=tokyonight&layout=compact)
 
-## Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panduthegang&layout=compact&theme=dark)
+![](https://komarev.com/ghpvc/?username=panduthegang)
 
----
+<h3> 🤝🏻 Connect with Me </h3>
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Rathod-blue?style=flat-square)](https://www.linkedin.com/in/harsh-rathod-2591b0292)
-[![Instagram](https://img.shields.io/badge/Instagram-Harsh%20Rathod-orange?style=flat-square)](https://www.instagram.com/harsh_rathod_303/)
-[![Email](https://img.shields.io/badge/Email-Harsh%20Rathod-red?style=flat-square)](mailto:harshsrathod959@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-rathod-2591b0292/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh%20Rathod-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.instagram.com/harsh_rathod_303/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-harsh_rathod_303-blue?style=flat-square&logo=instagram"></a>
+  <a href="mailto:harshsrathod959@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-harshsrathod959@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+ <!--⭐️ From [Piyush Agarwal](https://github.com/panduthegang)-->
